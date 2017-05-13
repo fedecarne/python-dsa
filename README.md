@@ -1,2 +1,2 @@
 # python-dsa
-Python implementations of the some relevant data structures and algorithms
+Python implementation of some basic data structures and algorithms
